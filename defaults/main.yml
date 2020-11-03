@@ -13,6 +13,7 @@ docker_restart_handler_state: restarted
 docker_install_compose: true
 docker_compose_version: "1.26.0"
 docker_compose_path: /usr/local/bin/docker-compose
+docker_compose_custom_url: "https://github.com/docker/compose/releases/download/1.27.4/docker-compose-Linux-x86_64"
 
 # Used only for Debian/Ubuntu. Switch 'stable' to 'edge' if needed.
 docker_apt_add_official_repository: true
