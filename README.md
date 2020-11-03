@@ -1,4 +1,4 @@
-This is just a FORK of [geerlingguy.docker](https://github.com/geerlingguy/ansible-role-docker/) with https://github.com/geerlingguy/ansible-role-docker/pull/197
+This is just a FORK of [geerlingguy.docker](https://github.com/geerlingguy/ansible-role-docker/) with https://github.com/geerlingguy/ansible-role-docker/pull/197 and and extra var `docker_compose_custom_url` to specify a custom url to download docker-compose
 
 # Ansible Role: Docker
 
